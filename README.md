@@ -46,7 +46,4 @@ The baseline makes the project usable without credentials. The model path is opt
 
 Add asynchronous request handling, provider timeouts and retries, privacy-safe telemetry, rate limits, human-rated evaluation sets, and a longitudinal experiment measuring whether learners improve after feedback.
 
-## License
-
-MIT. Synthetic examples only; no user or Preply data.
 
